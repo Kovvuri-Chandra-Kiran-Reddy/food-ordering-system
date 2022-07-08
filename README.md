@@ -7,3 +7,6 @@ this is an ongoing project in which designing is not focussed. designing will be
 
 this project will create a seperate table for every user after creating an account and it will show all the ordered he had placed till that time 
 and from there he can click a link such that he can place new orders , these all orders will be inserted into his table using java & mysql queries only if all details entered are correct.
+
+a seperate table a admin in the database such that he can see all the ordered placed and deliver the items to their respective address.
+
